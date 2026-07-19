@@ -6,10 +6,10 @@ A simple tool for developers to check their Text Belt Key.
 
 # Usage
 ```
-git clone https://github.com/JessicaEmberlyOfficial/Text-Belt-Key-Checker/
+git clone https://github.com/JessicaEmberlyOfficial/TBKC/
 ```
 ```
-cd Text-Belt-Key-Checker
+cd TBKC
 ```
 ```
 python tbkc.py
