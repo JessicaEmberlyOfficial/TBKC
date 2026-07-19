@@ -3,7 +3,7 @@ import requests
 os.system("clear")
 key = input("What is your Text Belt key?: ")
 os.system("clear")
-phonenumber = input("What is your phone number?: ")
+phonenumber = input("What is your phone number? (e.g. +11111111111): ")
 response = requests.post('https://textbelt.com/text', {
       'phone': phonenumber,
       'message': 'test',
