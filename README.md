@@ -1,4 +1,4 @@
-# Text -Belt-Key-Checker
+# TBKC
 A simple tool for developers to check their Text Belt Key.
 
 # Requirements
